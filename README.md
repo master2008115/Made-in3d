@@ -78,4 +78,7 @@ Sensor Calibration and Accuracy: Sensors require proper calibration to provide a
 Data Reliability: Environmental factors like extreme weather conditions can affect the performance of certain sensors (e.g., cameras during heavy rain or dust affecting air quality sensors). This can lead to gaps in data collection or unreliable readings.
 Energy Consumption
 Power Requirements: Many sensors, especially those that operate continuously (e.g., traffic cameras or environmental monitors), consume significant energy. Ensuring a stable and efficient power supply to run these sensors can be difficult, particularly in cities striving for sustainability.
+
+
+
 ____________________________Section end_____________________________________
